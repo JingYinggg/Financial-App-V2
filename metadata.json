@@ -1,0 +1,6 @@
+{
+  "name": "MY Fortune Wealth Manager",
+  "description": "Comprehensive personal wealth manager combining stock portfolio, dividend yield tracker, credit card cashback calculator, monthly cash flow projections, and annual financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
